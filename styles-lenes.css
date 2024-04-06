@@ -1,0 +1,28 @@
+.line {
+    position: fixed;
+    overflow: hidden;
+    background: rgba(0, 0, 0, 0.05);
+}
+.line-1 {
+
+    height: 1600px;
+    width: 1700px;
+    bottom: -1100px;
+    transform: skew(-65deg, 16deg);
+}
+
+.line-2 {
+    left: -240px;
+    height: 3000px;
+    width: 2000px;
+    bottom: -2400px;
+    transform: skew(25deg, 9.2deg);
+}
+
+.line-3 {
+    left: 230px;
+    height: 2300px;
+    width: 2100px;
+    bottom: -1700px;
+    transform: skew(60deg, 5deg);
+}
