@@ -1,3 +1,7 @@
+.body-main {
+    background:rgb(20, 130, 150);
+    font-family: Arial, Helvetica, sans-serif;
+}
 .MainBlock-page-2 {
     display: grid;
     grid-template-columns: 1fr 1fr;
