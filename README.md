@@ -6,12 +6,12 @@
 
   Tab one - "Профиль":
   
-  It's firstly what you see on my site. In this located of base infotmation about me and My favorite photo of me. 
+  It's firstly what you see on my site. In this located of base infotmation about me and My favorite photo of me.
   Also this tab have a cap for move on tabs and have footer where you can visit my social network and account on messengers.
 
   Tap two - "Обо мне":
   
-  It's continue work of main-tab. 
+  It's continue work of main-tab.
   This section haven't base information, but you have the opportunity to get to know me better!
 
   Tab three - "Истории":
