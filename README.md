@@ -1,8 +1,6 @@
   Hi, mister or missis!
   
-  I'm a student at CAIT№20.
-  
-  Also I'm present for you my college practical work for learning language of the hyper text markup and language of decoration (apperance), more procisely, this is website whith information about me and intrestig part of my life.
+  I'm a student at CAIT№20 and I'm present for you my college practical work for learning language of the hyper text markup and language of decoration (apperance), more procisely, this is website whith information about me and intrestig part of my life.
 
   Navigation on website:
 
