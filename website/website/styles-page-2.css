@@ -1,0 +1,8 @@
+.MainBlock-page-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
