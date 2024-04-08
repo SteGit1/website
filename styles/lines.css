@@ -1,22 +1,41 @@
+.line-conteiner {
+    position: fixed;
+    top: 70%;
+    overflow: hidden;
+}
 .line {
     position: fixed;
-    overflow: hidden;
     background: rgba(0, 0, 0, 0.05);
-    top: 60%;
-    height: 150%;
+    height: 100%;
     width: 150%;
+    align-self: center;
 }
-.line-1 {
-    left: 0%;
+.line-1-page-1 {
+    left: -46%;
     border-radius: 50%;
 }
 
-.line-2 {
-    left: -10%;
+.line-2-page-1 {
+    left: -26%;
     border-radius: 50%;
 }
 
-.line-3 {
-    left: 20%;
+.line-3-page-1 {
+    left: -6%;
+    border-radius: 50%;
+}
+
+.line-1-page-2 {
+    left: -67%;
+    border-radius: 50%;
+}
+
+.line-2-page-2 {
+    left: -26%;
+    border-radius: 50%;
+}
+
+.line-3-page-2 {
+    left: 15%;
     border-radius: 50%;
 }
