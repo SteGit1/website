@@ -9,15 +9,6 @@ p {
 ul {
     font-size: larger;
 }
-a:link {
-    text-decoration: none;
-    color: rgb(20, 50, 135);
-
-    transition: color 300ms;
-}
-a:link:hover {
-    color: rgb(16, 101, 159);
-}
 li {
     padding-bottom: 7pt;
 }
