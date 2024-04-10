@@ -1,7 +1,7 @@
 .line-conteiner {
     position: fixed;
     top: 70%;
-    overflow: hidden;
+
 }
 .line {
     position: fixed;
@@ -38,4 +38,13 @@
 .line-3-page-2 {
     left: 15%;
     border-radius: 50%;
+}
+
+.line-gradient {
+    position: fixed;
+    height: 500px;
+    width: 100%;
+    top: 80%;
+    background: linear-gradient(rgb(0, 0, 0, 0.0), rgb(0, 0, 0));
+    overflow: hidden;
 }
