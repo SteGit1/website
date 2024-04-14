@@ -33,23 +33,19 @@
 }
 
 .content {
-    display: grid;
-    grid-template-rows: 1fr 1fr;
     height: 600px;
     border-radius: 20px;
     background-color: antiquewhite;
     overflow: hidden;
 }
-.photo {
-    align-self: center;
-    justify-self: center;
-    overflow: hidden;
-    max-width: fit-content;
-}
 img.photo {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    transition: 1s;
+}
+img.photo:hover {
+    transform: scale(1.05);
 }
 .info {
     width: fit-content;

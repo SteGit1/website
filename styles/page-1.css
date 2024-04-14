@@ -18,6 +18,12 @@
     border-top-left-radius: 200px;
     border-top-right-radius: 0px;
     border-bottom-left-radius: 200px;
+
+    transition: 1s ease;
+}
+.photo:hover {
+    border-radius: 50px;
+    transform: scale(1.05);
 }
 
 .block {
