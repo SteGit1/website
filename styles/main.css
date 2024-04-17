@@ -12,6 +12,9 @@ ul {
 li {
     padding-bottom: 7pt;
 }
+b {
+    size: 5px;
+}
 a.desc {
     padding: 15pt;
 }
