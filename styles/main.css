@@ -17,7 +17,7 @@ a.desc {
 }
 a:link {
     text-decoration: none;
-    color: rgb(5, 55, 75);
+    color: rgb(0, 50, 50, 0.6);
 }
 a.link {
     transition: 300ms;
@@ -25,7 +25,7 @@ a.link {
     border-radius: 15px;
 }
 a.link:hover {
-    background-color:  rgb(0, 0, 0, 0.15);
+    background-color:  rgb(0, 0, 0, 0.3);
     color:rgb(0, 0, 0, 0.3);
     padding-left: 10px;
     padding-right: 10px;
