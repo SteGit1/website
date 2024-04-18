@@ -47,8 +47,3 @@ img.photo {
 img.photo:hover {
     transform: scale(1.05);
 }
-.info {
-    width: fit-content;
-    overflow-y: hidden;
-    text-wrap: nowrap;
-}
