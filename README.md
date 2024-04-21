@@ -20,5 +20,5 @@
   Tab four - "Дополнительно":
 
   Oh... It's a reflection of my hope for finish this project. At now (21.04.2024) It's part have only one "hehe" image and that's it. So, it's very sad because I thinked I have enough time for finish, but I not make completed that. 
-  
-  
+
+  Well, In that moment (21.04.2024) last commit in this repository - "test js" and that's it. I'm sorry for that.
